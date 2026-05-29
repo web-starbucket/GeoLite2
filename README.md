@@ -1,2 +1,2 @@
 # GeoLite2
-Geographic location database
+Official website download link: https://www.maxmind.com/en/accounts/1354408/manage-services
